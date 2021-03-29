@@ -1,5 +1,5 @@
 import React from 'react';
-import CustomButton from '../custom-button.component.jsx/custom-buttom.component';
+import CustomButton from '../custom-button.component/custom-button.component';
 import FormInput from '../form-input/form-input.component';
 import './signin.styles.scss';
 import { signInWithGoogle } from "../../firebase/firebase.utils"
