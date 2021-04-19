@@ -49,7 +49,7 @@ Enjoy :)
 * [React](https://reactjs.org/) - The JavaScript framework used
 * [Redux](https://redux.js.org/) - State Management
 * [SASS](https://sass-lang.com/) - CSS Pre-Processor
-* [Firebase](https://firebase.google.com/) - backend language used
+* [Firebase](https://firebase.google.com/) - Used to handle backend functionalities
 
 ## Contributors
 
