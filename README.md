@@ -2,7 +2,7 @@
 
 A React ecommerce application for an online Clothe shop.
 
-[Crwn Clothing Live Link](https://github.com/Tyossi/crwn-clothing.git)
+[Crwn Clothing Live Link](https://crwn-clothingline.herokuapp.com/)
 
 ## Getting Started
 
