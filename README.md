@@ -1,6 +1,6 @@
 # Crwn Clothing
 
-A React ecommerce application for an online Clothe shop.
+A React ecommerce application for an online fashion shop.
 
 [Crwn Clothing Live Link](https://crwn-clothingline.herokuapp.com/)
 
